@@ -12,7 +12,8 @@ This is a React-based web application that contains 2 main parts
 -   Node.js installed on your machine.
 -   Google Antigravity AI editor.
 
-Copilot is probably fine, but I recommend using Antigravity + Gemini 3 high planning mode for best results.
+Copilot is probably fine, but I recommend using Antigravity + Gemini 3 high planning mode for best results, it can even open the browser and test the stuff for you.
+There's no backend database, everything is just in-memory data structures, so no need to set up a database. Everything is just hardcoded code that resets on every page refresh.
 
 ### Installation
 
@@ -29,7 +30,7 @@ Copilot is probably fine, but I recommend using Antigravity + Gemini 3 high plan
     ```bash
     npm run dev
     ```
-2.  Open your browser and navigate to the URL shown in the terminal (usually `http://localhost:5173`).
+2.  Open your browser and navigate to the URL shown in the terminal.
 
 ### Accounts
 
