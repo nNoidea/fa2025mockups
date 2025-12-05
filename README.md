@@ -1,4 +1,4 @@
-# Cockpit Application
+# FA Applications
 
 This is a React-based web application that contains 2 main parts
 
@@ -10,6 +10,9 @@ This is a React-based web application that contains 2 main parts
 ### Prerequisites
 
 -   Node.js installed on your machine.
+-   Google Antigravity AI editor.
+
+Copilot is probably fine, but I recommend using Antigravity + Gemini 3 high planning mode for best results.
 
 ### Installation
 
@@ -48,3 +51,5 @@ Pages change depending on the account type, so to get the special worker plannin
 
 Make sure to tell AI to update whichever part you want to update, I mean prompts like:
 "In Cockpit do this..." or "In Backoffice do that...".
+
+## Keep in mind
